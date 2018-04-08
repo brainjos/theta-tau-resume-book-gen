@@ -1,7 +1,91 @@
-THETA TAU RHO BETA PLEDGE PROJECT PART B: THETA TAU: "A PROFESSIONAL ENGINEERING FRATERNITY"
-==================
-By Josh Brainard <brainjos@umich.edu>, Sri Gulukota <srig@umich.edu>, Ryan Dailey <rpdailey@umich.edu>, 
-Andrew Pospeshil <aposp@umich.edu>, Jerry Liu <jumbers@umich.edu>
+# THETA TAU RHO BETA PLEDGE PROJECT PART B: THETA TAU: "A PROFESSIONAL ENGINEERING FRATERNITY"
 
-This folder contains everything it's useful
-https://drive.google.com/drive/folders/0B86DbYeSE1PYflBKdGY1NDZoeVd1UC1xQmpzSGlScDhMNGVJYkVELUVkdXB2cGpDTnc4bTg?usp=sharing
+This resume book creation tool is intended for use by the Theta Tau Theta Gamma Chapter 
+Corporate Sponsorship Committee. It's used in conjunction with a Google Form to compile
+resume books for whatever companies the chapter has decided to submit to, based on events
+that the chapter has worked on with these companies in the past.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Josh Brainard** <brainjos@umich.edu>
+* **Ryan Dailey** <rpdailey@umich.edu>, 
+* **Sri Gulukota** <srig@umich.edu>
+* **Andrew Pospeshil** <aposp@umich.edu>
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Aditya Tamanna
+* Varun Rana
+* Franklin Luo
