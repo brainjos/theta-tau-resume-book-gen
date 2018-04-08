@@ -1,4 +1,5 @@
-# THETA TAU RHO BETA PLEDGE PROJECT PART B: THETA TAU: "A PROFESSIONAL ENGINEERING FRATERNITY"
+# THETA TAU RHO BETA PLEDGE PROJECT 
+## PART B: THETA TAU: "A PROFESSIONAL ENGINEERING FRATERNITY"
 
 This resume book creation tool is intended for use by the Theta Tau Theta Gamma Chapter 
 Corporate Sponsorship Committee. It's used in conjunction with a Google Form to compile
