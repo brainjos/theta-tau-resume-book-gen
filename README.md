@@ -4,19 +4,28 @@
 This resume book creation tool is intended for use by the Theta Tau Theta Gamma Chapter 
 Corporate Sponsorship Committee. It's used in conjunction with a Google Form to compile
 resume books for whatever companies the chapter has decided to submit to, based on events
-that the chapter has worked on with these companies in the past.
+that the chapter has worked on with these companies in the past.  
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The user should install the python library "pandas", a common data analysis library.
+More information can be found [here](https://pandas.pydata.org/).  
 
-### Prerequisites
+### Google Forms
 
-What things you need to install the software and how to install them
+A Google Form is the best way to collect data and format it into a CSV file. The form
+should be formatted as such:
 
-```
-Give examples
-```
+- Applicant Name
+  - Firstname Lastname
+- Major
+  - In this example, we've made each College of Engineering major its own radio checkbox option, with a field for an "Other" major. This allows for variation in how users input their majors (e.g. MechE vs. Mechanical Engineering vs. ME)
+- Year
+  - We elected to set the categories as "Freshman," "Sophomore," "Junior," "Senior," and "Graduate," but with some small modifications to the code, graduation year could be used as well.
+- Companies Applicant is Applying to:
+  - These companies will be determined by the Corporate Sponsorship Committee based on events held with them previously in the year, among other factors.
+- Resume
+  - The naming convention used here is firstname_lastname_resume.pdf which is very important.
 
 ### Installing
 
