@@ -1,5 +1,5 @@
-# THETA TAU RHO BETA PLEDGE PROJECT 
-## PART B: THETA TAU: "A PROFESSIONAL ENGINEERING FRATERNITY"
+# THETA TAU RESUME BOOK GENERATOR 
+## "A PROFESSIONAL ENGINEERING FRATERNITY"
 
 This resume book creation tool is intended for use by the Theta Tau Theta Gamma Chapter 
 Corporate Sponsorship Committee. It's used in conjunction with a Google Form to compile
@@ -38,16 +38,5 @@ In terminal, navigate to the folder with the resume folder and resume book progr
 ## Authors
 
 * **Josh Brainard** <brainjos@umich.edu>
-* **Ryan Dailey** <rpdailey@umich.edu>, 
 * **Sri Gulukota** <srig@umich.edu>
 * **Andrew Pospeshil** <aposp@umich.edu>
-
-## License
-
-This project has no license so please don't steal it.
-
-## Acknowledgments
-
-* Aditya Tamanna
-* Varun Rana
-* Franklin Luo
